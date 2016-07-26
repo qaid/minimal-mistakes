@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "My methods, my madness."
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Qaid Jacobs"
+description              : "The portfolio of a Product & System Designer, father, DJ, and dreamer."
+url                      : #"http://qaidjacobs.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "qaidj"
 facebook:
   username               :
   app_id                 :
@@ -49,12 +49,14 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://twitter.com/qaidj"
+  - "https://github.com/qaid"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-64739692-1"
 
 # Google AdSense
 google_ad_client         :
@@ -63,26 +65,26 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Qaid Jacobs"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  bitbucket        :
+  bio              : "Staying dry in Amsterdam, designing and conspiring."
+  location         : "Amsterdam"
+  email            : 
+  uri              : "http://qaidjacobs.com"
+  bitbucket        : 
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         :
   foursquare       :
-  github           :
+  github           : "qaid"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "qaid"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : "humble"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
