@@ -35,19 +35,19 @@ feature_row:
     btn_label: "See more interface design"
     btn_class: "btn--inverse"
 feature_row2:
-  - image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: gallery-of-ideas.jpg
+    alt: "A group interested in ideas on the wall"
+    title: "Case Study: When I redesigned a flagship product"
+    excerpt: "I lead the company through the discovery of product strengths and implemented a visual language and framework that maximized speed and efficiency."
+    url: "#nipo-redesign"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
-  - image_path: unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+  - image_path: nipo-blog.jpg
+    alt: "mockup of a website design"
+    title: "Collaboration Culture Creator"
+    excerpt: "I lead Design Sprints, started the company Hackathon, organized the adoption of Slack, and launched the company blog"
+    url: "#nipo-collaboration"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row4:
